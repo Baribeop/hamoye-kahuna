@@ -10,7 +10,6 @@ fonttools
 greenlet
 itsdangerous
 Jinja2
-kiwisolve
 MarkupSafe
 matplotlib
 numpy
